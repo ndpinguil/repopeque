@@ -27,4 +27,4 @@ const MagicLinkForm = () => {
     )
 }
 
-export default MagicLinkForm
+export default MagicLinkForm 
